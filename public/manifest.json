@@ -1,0 +1,22 @@
+{
+  "name": "Zoe - Rescate Animal",
+  "short_name": "Zoe",
+  "description": "Plataforma de rescate y adopción animal en Bolivia",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF9F2",
+  "theme_color": "#D85A30",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
